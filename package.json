@@ -1,0 +1,24 @@
+{
+  "name": "petapiproject",
+  "version": "1.0.0",
+  "description": "a simple RESTful API for pets using node and express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smendoza787/node-express-pet-api.git"
+  },
+  "keywords": [
+    "RESTful",
+    "api",
+    "tutorial"
+  ],
+  "author": "Sergio Mendoza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/smendoza787/node-express-pet-api/issues"
+  },
+  "homepage": "https://github.com/smendoza787/node-express-pet-api#readme"
+}
