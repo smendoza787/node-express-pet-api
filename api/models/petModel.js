@@ -11,7 +11,7 @@ var PetSchema = new Schema({
     type: String,
     required: 'Please enter the type of your pet'
   },
-  status: {
+  mood: {
     type: [{
       type: String,
       enum: ['hungry', 'happy', 'sleepy']
