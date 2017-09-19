@@ -20,5 +20,11 @@
   "bugs": {
     "url": "https://github.com/smendoza787/node-express-pet-api/issues"
   },
-  "homepage": "https://github.com/smendoza787/node-express-pet-api#readme"
+  "homepage": "https://github.com/smendoza787/node-express-pet-api#readme",
+  "devDependencies": {
+    "nodemon": "^1.12.1"
+  },
+  "dependencies": {
+    "express": "^4.15.4"
+  }
 }
