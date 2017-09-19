@@ -1,6 +1,5 @@
 # Learning Node and Express
 
-I'm going to build out a simple API for pets by using Node and Express and
-writing a blog post about it.
+This is a tutorial I made for building a simple RESTful API for storing pets in a MongoDB database using Node and Express.js
 
-Links coming soon.
+You can read my blog post write-up [here](https://smendoza.me/blog/2017/09/16/node-express-pets-api)
